@@ -1,9 +1,6 @@
 # Hyprland cache
 .config/hypr/.cache/
 
-# Wallpapers (large binary files)
-.config/hypr/Wallpapers/
-
 # Sounds
 .config/hypr/sounds/
 
